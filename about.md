@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: אודות
 permalink: /about/
 ---
 
-Some information about you!
+קצת מידע עליי - אני איש.
 
-### More Information
+### עוד מידע
 
-A place to include any other types of information that you'd like to include about yourself.
+למטה יש מייל שלי ואחר כך עוד כל מיני קישורים לרשתות חברתיות, חוץ מזה-  ראו דיסקלאמר
+### צור קשר
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+בגדול אל, אבל אם בכל זאת, ראיתם טעות, משהו -הנה:
+[המייל שלי](mailto:ehejedi@djediism.co.nr)
