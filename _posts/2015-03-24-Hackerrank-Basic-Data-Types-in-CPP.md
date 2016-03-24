@@ -1,5 +1,5 @@
 ---
-layout: inner
+layout: post
 title: 'Hackerrank - Basic Data Types'
 date: 2016-03-24 16:26:34
 categories: Hackerrank, C++
