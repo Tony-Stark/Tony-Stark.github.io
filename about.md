@@ -12,4 +12,4 @@ permalink: /about/
 ### צור קשר
 
 בגדול אל, אבל אם בכל זאת, ראיתם טעות, משהו -הנה:
-[המייל שלי](mailto:ehejedi@djediism.co.nr)
+[המייל שלי](mailto:thejedi@null.net)
